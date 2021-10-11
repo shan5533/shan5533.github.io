@@ -1,2 +1,4 @@
 # shan5533.github.io
-my website
+Well come to my website.
+name:Shan
+Major:Psy
